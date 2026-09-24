@@ -50,7 +50,7 @@ Si hay que regenerarlo desde el PDF del DOGV, `extraer_anexo_iii.py` y el cuader
 
 Abre `index.html` en el navegador (o la versión publicada en GitHub Pages), introduce tu clave de API de OpenAI, rellena el formulario y genera. La clave se guarda solo en `localStorage` y viaja únicamente a la API de OpenAI. Las configuraciones se guardan como perfiles reutilizables y el texto generado persiste entre sesiones.
 
-Modelo por defecto: `gpt-4o-mini`. Coste orientativo de una programación completa: unos céntimos.
+Modelo por defecto: `gpt-6-luna` (temperatura 1). Coste orientativo de una programación completa: unos céntimos.
 
 ## Aviso
 
